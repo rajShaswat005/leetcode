@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajShaswat005/leetcode/tree/master/0141-linked-list-cycle) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajShaswat005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rajShaswat005/leetcode/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajShaswat005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajShaswat005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
