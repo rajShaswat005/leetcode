@@ -37,9 +37,14 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rajShaswat005/leetcode/tree/master/0035-search-insert-position) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajShaswat005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajShaswat005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rajShaswat005/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
