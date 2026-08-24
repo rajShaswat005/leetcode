@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajShaswat005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/rajShaswat005/leetcode/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/rajShaswat005/leetcode/tree/master/0383-ransom-note) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajShaswat005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajShaswat005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/rajShaswat005/leetcode/tree/master/0383-ransom-note) |
 | [2573-find-the-string-with-lcp](https://github.com/rajShaswat005/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Sliding Window
 |  |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/rajShaswat005/leetcode/tree/master/2573-find-the-string-with-lcp) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/rajShaswat005/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
