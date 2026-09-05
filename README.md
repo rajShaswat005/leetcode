@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rajShaswat005/leetcode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/rajShaswat005/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rajShaswat005/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/rajShaswat005/leetcode/tree/master/0682-baseball-game) |
 ## Array
@@ -96,4 +97,12 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/rajShaswat005/leetcode/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rajShaswat005/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rajShaswat005/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
