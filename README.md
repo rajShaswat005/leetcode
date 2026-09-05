@@ -39,11 +39,13 @@
 | ------- |
 | [0143-reorder-list](https://github.com/rajShaswat005/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rajShaswat005/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/rajShaswat005/leetcode/tree/master/0682-baseball-game) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rajShaswat005/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/rajShaswat005/leetcode/tree/master/0088-merge-sorted-array) |
+| [0682-baseball-game](https://github.com/rajShaswat005/leetcode/tree/master/0682-baseball-game) |
 | [2573-find-the-string-with-lcp](https://github.com/rajShaswat005/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajShaswat005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rajShaswat005/leetcode/tree/master/0383-ransom-note) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/rajShaswat005/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
