@@ -65,6 +65,7 @@
 | [0125-valid-palindrome](https://github.com/rajShaswat005/leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/rajShaswat005/leetcode/tree/master/0383-ransom-note) |
 | [2573-find-the-string-with-lcp](https://github.com/rajShaswat005/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [3498-reverse-degree-of-a-string](https://github.com/rajShaswat005/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/rajShaswat005/leetcode/tree/master/0682-baseball-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/rajShaswat005/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
