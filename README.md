@@ -46,6 +46,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/rajShaswat005/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/rajShaswat005/leetcode/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajShaswat005/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0682-baseball-game](https://github.com/rajShaswat005/leetcode/tree/master/0682-baseball-game) |
 | [2573-find-the-string-with-lcp](https://github.com/rajShaswat005/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajShaswat005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajShaswat005/leetcode/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajShaswat005/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajShaswat005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
@@ -73,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajShaswat005/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajShaswat005/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
