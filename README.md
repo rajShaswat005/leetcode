@@ -50,6 +50,7 @@
 | [0682-baseball-game](https://github.com/rajShaswat005/leetcode/tree/master/0682-baseball-game) |
 | [2573-find-the-string-with-lcp](https://github.com/rajShaswat005/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajShaswat005/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajShaswat005/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajShaswat005/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajShaswat005/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajShaswat005/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
