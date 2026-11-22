@@ -67,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajShaswat005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/rajShaswat005/leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/rajShaswat005/leetcode/tree/master/0383-ransom-note) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rajShaswat005/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2573-find-the-string-with-lcp](https://github.com/rajShaswat005/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3498-reverse-degree-of-a-string](https://github.com/rajShaswat005/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
